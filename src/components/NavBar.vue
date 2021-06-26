@@ -11,11 +11,6 @@
   </header>
 </template>
 
-<script>
-export default {
-
-}
-</script>
 <style>
   nav {
     background-color: #35586C;
