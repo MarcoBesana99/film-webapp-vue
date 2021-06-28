@@ -1,5 +1,7 @@
 # film-app-vue
 
+In order to use try this project, you need to register an apikey to the following website: http://www.omdbapi.com/ and add it to the env.js.
+
 ## Project setup
 ```
 npm install
